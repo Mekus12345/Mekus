@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mekus
+- 👋 Hi, I’m @victoranumaka
 - 👀 I’m interested in data science and analytics
 - 🌱 I’m currently learning how to code using python, i will need more insight though
 - 💞️ I’m looking to collaborate on data analytics 
